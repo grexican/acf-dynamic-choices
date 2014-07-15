@@ -22,7 +22,7 @@ An example on how to list users, setting the `id` as the value, would look like 
 
 == Installation ==
 
-1. Upload `acf-dynamic-choices` to the `/wp-content/plugins/` directory. Alternatively, install the `zip` through the WordPress Plugins installer.
+1. Upload `acf-dynamic-choices` folder to the `/wp-content/plugins/` directory. Alternatively, install the `zip` through the WordPress Plugins installer.
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place a query in your ACF choices box in this form: `%%QUERY%% : SELECT field1 AS text, field2 AS value FROM ....`
 1. Browse to a Post or the Options Page where you just added the dynamic query and ensure that the choices are properly being populated.
